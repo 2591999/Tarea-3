@@ -1,0 +1,5 @@
+Ingeniero buenas tardes, le comento que este proyecto es como que la continuidad de la tarea anterior entregada con el nombre "Actividad 2" en esta version cree el CRUD de la table empleados.
+
+Para no causar confusion cree este nuevo repositorio.
+
+Saludos.
